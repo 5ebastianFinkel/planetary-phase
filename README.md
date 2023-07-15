@@ -1,3 +1,4 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/5903ebd0-d4f9-4158-8f23-5ad1b3ce06e1/deploy-status)](https://app.netlify.com/sites/planetary-phase/deploys)
 # Astro Starter Kit: Minimal
 
 ```
@@ -22,7 +23,6 @@ Inside of your Astro project, you'll see the following folders and files:
 │       └── index.astro
 └── package.json
 ```
-
 Astro looks for `.astro` or `.md` files in the `src/pages/` directory. Each page is exposed as a route based on its file name.
 
 There's nothing special about `src/components/`, but that's where we like to put any Astro/React/Vue/Svelte/Preact components.
